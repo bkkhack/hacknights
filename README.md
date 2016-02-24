@@ -8,6 +8,8 @@ to need yet another service account, but we figure that most of our members use
 GitHub already. So, we're experimenting with this approach along with a [Waffle
 board] to visualize.
 
+[![Next Hack Night's Projects](https://badge.waffle.io/bkkhack/hacknights.svg?label=ready&title=Next%20Hack%20Night%27s%20Projects)](http://waffle.io/bkkhack/hacknights)
+
 ### Wondering what to hack on, or how?
 
 See our [resources wiki project][resources] if you're looking for inspiration
