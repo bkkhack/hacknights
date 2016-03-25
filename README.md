@@ -3,39 +3,14 @@
 The BKK/hack community uses this repository as a means of organizing interest
 groups ([Birds of a Feather]) for [our hack nights] in advance.
 
-Meetup doesn't have a good built-in tool for this and we didn't want everyone
-to need yet another service account, but we figure that most of our members use
-GitHub already. So, we're experimenting with this approach along with a [Waffle
-board] to visualize.
-
 [![Next Hack Night's Projects](https://badge.waffle.io/bkkhack/hacknights.svg?label=ready&title=Next%20Hack%20Night%27s%20Projects)](http://waffle.io/bkkhack/hacknights)
+
+## Joining our next HACKNIGHT? [Start on our Hackboard](https://waffle.io/bkkhack/hacknights/cards/56f3353be8cf437a00d6df41)
 
 ### Wondering what to hack on, or how?
 
 See our [resources wiki project][resources] if you're looking for inspiration
 or first steps at getting started with a new technology.
-
-### How does it work?
-
-Ideas are actually tracked as GitHub issues, but the [Waffle board] is an
-easier interface for browsing. You can use the filter function at top right to
-select a milestone, which we will create for each upcoming hack night by date.
-Leave a comment on a card if you're interested in collaborating on someone's
-idea.
-
-1. If you have an idea or subject that you want to learn about or share with
-   others, click `Add Issue` at the top and a card will be added to the
-   **Ideas/Expertise** column.
-1. Set the `Milestone` to the upcoming hack night date that you plan to attend.
-   If your plans change, you can always move the milestone to the next event.
-1. Move your card to the **Ready** column if you've formed a team for a date,
-   or have decided to forge ahead on your own.
-1. When you start working during hack night, move your card to **Happening
-   Now!** so that undecided members can find and join you.
-1. When the hack night is over, move your cards to **Done**.
-
-   We like to hear about what you've learned or accomplished, so if you're not
-   shy to share publicly, make a comment on your card to keep a record!
 
 ### Tips
 
