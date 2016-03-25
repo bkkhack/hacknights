@@ -1,5 +1,7 @@
 ## BKK/hack Hack Nights
 
+[![Join the chat at https://gitter.im/bkkhack/hacknights](https://badges.gitter.im/bkkhack/hacknights.svg)](https://gitter.im/bkkhack/hacknights?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The BKK/hack community uses this repository as a means of organizing interest
 groups ([Birds of a Feather]) for [our hack nights] in advance.
 
