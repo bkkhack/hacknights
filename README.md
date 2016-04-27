@@ -1,25 +1,27 @@
-## BKK/hack Hack Nights
+# BKK/hack Hack Nights
 
+[![Next Hack Night's Projects](https://badge.waffle.io/bkkhack/hacknights.svg?label=ready&title=Next%20Hack%20Night%27s%20Projects)](http://waffle.io/bkkhack/hacknights)
 [![Join the chat at https://gitter.im/bkkhack/hacknights](https://badges.gitter.im/bkkhack/hacknights.svg)](https://gitter.im/bkkhack/hacknights?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The BKK/hack community uses this repository as a means of organizing interest
 groups ([Birds of a Feather]) for [our hack nights] in advance.
 
-[![Next Hack Night's Projects](https://badge.waffle.io/bkkhack/hacknights.svg?label=ready&title=Next%20Hack%20Night%27s%20Projects)](http://waffle.io/bkkhack/hacknights)
+## Joining our next Hack Night?
 
-## Joining our next HACKNIGHT? [Start on our Hackboard](https://waffle.io/bkkhack/hacknights/cards/56f3353be8cf437a00d6df41)
+[Start on our hack board][start card] to learn how it works.
 
 ### Wondering what to hack on, or how?
 
 See our [resources wiki project][resources] if you're looking for inspiration
 or first steps at getting started with a new technology.
 
-### Tips
+## Pro Tips
 
-Waffle is tightly integrated with GitHub issues. If you want to know about new
-ideas that other members post, you can watch the repository on GitHub to get
-email notifications, and reply to the emails to comment on a conversation. You
-can also subscribe to an issue without needing to leave a comment.
+Waffle boards are tightly integrated with GitHub issues. If you want to know
+about new ideas that other members post, you can watch the repository on GitHub
+to get email notifications, and reply to the emails to comment on a
+conversation. You can also subscribe to an issue without needing to leave a
+comment.
 
 Label your card/issue with `help wanted` or `sharing` if you're looking to
 learn or share knowledge, respectively.
@@ -42,6 +44,7 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 [Birds of a Feather]: https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)
 [our hack nights]: http://www.meetup.com/bkkhack/
 [Waffle board]: https://waffle.io/bkkhack/hacknights
+[start card]: https://waffle.io/bkkhack/hacknights/cards/56f3353be8cf437a00d6df41
 [resources]: https://github.com/bkkhack/resources
 
 <!-- vim:set expandtab textwidth=79: -->
