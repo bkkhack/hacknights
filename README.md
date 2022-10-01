@@ -8,11 +8,11 @@ groups ([Birds of a Feather]) for [our hack nights] in advance.
 
 ## Joining our next Hack Night?
 
-[Start on our hack board][start card] to learn how it works.
+[Start on our hack board][start card] you should knowto learn how it works.
 
 ### Wondering what to hack on, or how?
 
-See our [resources wiki project][resources] if you're looking for inspiration
+See our [resources wiki project][resources] if you're looking for inspiration and
 or first steps at getting started with a new technology.
 
 ## Pro Tips
